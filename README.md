@@ -12,8 +12,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SV-0&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SV-0&langs_count=5&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SV-0)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

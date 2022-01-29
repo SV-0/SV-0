@@ -11,8 +11,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SV-0&count_private=true&theme=tokyonight&showicons=true)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sv-0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SV-0&langs_count=5&theme=tokyonight)]()
+
 
 <!--
 **SV-0/SV-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -20,6 +20,13 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SV-0&show_icons=true&hide=stars&theme=radical&count_private=true)\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SV-0&layout=compact&theme=radical)
 
+<hr>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=SV-0&show_icons=true&theme=dark&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SV-0&theme=dark">
+</p>
+
+<hr>
 
 <!--
 **SV-0/SV-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
